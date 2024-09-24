@@ -9,7 +9,7 @@
   "scripts": {
     "lint": "eslint \"./src\" && prettier --write",
     "build": "webpack",
-    "dev": "wrangler dev --host count.dsrkafuu.net",
+    "dev": "wrangler dev --host count.rierun.dev",
     "publish": "wrangler publish"
   },
   "dependencies": {
